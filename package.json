@@ -16,7 +16,7 @@
     "express-async-errors": "^3.1.1",
     "knex": "^2.2.0",
     "sqlite": "^4.1.2",
-    "sqlite3": "^5.0.10"
+    "sqlite3": "^5.1.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
